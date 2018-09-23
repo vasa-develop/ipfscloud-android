@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "243693028930",
+    "firebase_url": "https://ipfscloud-da4e7.firebaseio.com",
+    "project_id": "ipfscloud-da4e7",
+    "storage_bucket": "ipfscloud-da4e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243693028930:android:766886525ac14cce",
+        "android_client_info": {
+          "package_name": "com.tbc.vasa.ipfscloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243693028930-3f297kc3210kncgs1gfslbn79bhg98dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tbc.vasa.ipfscloud",
+            "certificate_hash": "e1ec1bec86f34466fa56daea58a9e54be9227884"
+          }
+        },
+        {
+          "client_id": "243693028930-47la5mak65mnpgmaa5tju5lc5d7lm7o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCswbSpNyptnMZiyA9HruKEBhuwP0Df4jU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243693028930-47la5mak65mnpgmaa5tju5lc5d7lm7o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
