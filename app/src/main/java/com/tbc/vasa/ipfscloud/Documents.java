@@ -28,6 +28,25 @@ public class Documents extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_documents);
 
+        //TODO: Add a navigation drawer using the menu file in the res/menu
+
+
+        //TODO: Below I am fetching some data. Add a grid recycler view for it(with 2 items in each row) NO NEED TO POPULATE THE DATA. JUST ADD THE FIELDS ACCORDING TO THE DATA FIELDS GIVEN BELOW IN THE ADAPTER.
+        //Use cloud.gif as the loader image while fetching the data.
+
+        //Format of data:
+        /*
+
+        QmVJcQM9GT45a1dNwzMKCEZRDyT8bw7Nap6xZGvFRGDcSo=
+        {
+        name=blockchian.png,
+        isSavedOnBlockchain=false,
+        contentType=png, size=66 KB,
+        ipfsHash=QmVJcQM9GT45a1dNwzMKCEZRDyT8bw7Nap6xZGvFRGDcSo
+        }
+
+          */
+
         settings = getSharedPreferences("account", MODE_PRIVATE);
         // Access a Cloud Firestore instance from your Activity
 
